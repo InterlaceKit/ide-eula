@@ -93,7 +93,7 @@ THE DEVELOPER SHALL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL D
 
 ## 7. Data Privacy and Collection
 
-The Plugin may collect usage data and metrics for the purpose of improving the Plugin and providing support services. All data collection and processing will be in accordance with applicable privacy laws and regulations. For more information about our data practices, please refer to our Privacy Policy available at [https://interlacekit.com/privacy](https://interlacekit.com/privacy).
+The Plugin may collect usage data and metrics for the purpose of improving the Plugin and providing support services. All data collection and processing will be in accordance with applicable privacy laws and regulations. For more information about our data practices, please refer to our Privacy Policy available at [https://interlacekit.com/privacy-policy](https://interlacekit.com/privacy-policy).
 
 ## 8. Support and Updates
 
